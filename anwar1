@@ -1,0 +1,10 @@
+Begin
+decler price_shoes, code_shoes as integer 
+FOR(ps=0 , ps<=100 , ps++)
+   write " enter code of shoes "
+ IF "Price_shoes >=60 OR"
+  Write "you got discount 30%"  
+
+ELSE 
+  Write " you will not got discount"
+  
