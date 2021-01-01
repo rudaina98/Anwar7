@@ -7,4 +7,12 @@ FOR(ps=0 , ps<=100 , ps++)
 
 ELSE 
   Write " you will not got discount"
+END FOR
+IF (Code_shoes="AH99R")
+  WRITE" THE SHOES IS HEEL"
+ELSE 
+       WRITE "THE SHOES IS FLAT"
+END IF 
+END
+
   
